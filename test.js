@@ -66,7 +66,7 @@ describe('SmartCalculator', () => {
       .devide(4)
       .add(6)
       .devide(3);
-
+      
     assert.equal(value, 7);
   });
 
